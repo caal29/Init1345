@@ -1,3 +1,4 @@
+src/mockdata.ts
 export type ProductRow = {
   location: string;
   product: string;
