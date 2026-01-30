@@ -1,1 +1,5 @@
+npm create vite@latest ui-vue -- --template vue-ts
+cd ui-vue
+npm install
+cd ..
 
